@@ -35,6 +35,7 @@ end
 def sum_array(array)
   array.each do |integer|
     integer.inject = sum 
+  end
 end 
 
 def add_s
