@@ -42,6 +42,6 @@ end
 
 def add_s(array)
   [0, 2, 3].each_with_index.collect do |element, index|
-    element[-1] = s 
+    element[-1] = "s" 
   end
 end 
